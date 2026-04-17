@@ -1,0 +1,219 @@
+You are a senior-level product design + frontend architecture AI tasked with building a HIGH-END, INVESTOR-GRADE SaaS + E-commerce hybrid website for a peptides company.
+
+This is NOT a basic website. This must feel like a $10,000+ premium product build with obsessive attention to UI/UX, motion design, and perceived performance.
+
+---
+
+## 🎯 OBJECTIVE
+
+Create a fully interactive FRONTEND-HEAVY demo (with light backend simulation) that:
+
+* Immediately impresses within the first 3 seconds
+* Has a “this is expensive” feel
+* Looks like it belongs to a biotech company backed by venture capital
+* Is smooth (target 60fps), clean, and premium (NOT neon cyberpunk)
+
+---
+
+## 🚫 STRICT DESIGN RULES
+
+* NO neon gradients
+* NO cheap “AI glowing” aesthetics
+* NO clutter
+* NO template-looking sections
+
+Instead:
+
+* Use a **minimal, luxury biotech aesthetic**
+* Colors: deep blacks, charcoal, off-white, muted blue/teal accents
+* Typography: modern sans-serif (Inter, Satoshi, or similar)
+* Spacing: generous, clean, intentional
+* Think: Apple + Stripe + high-end pharma brand
+
+---
+
+## ⚡ LOADING EXPERIENCE (CRITICAL – DO NOT FAIL THIS)
+
+Build a **cinematic loading screen** that alone can impress the client:
+
+* Smooth progress animation (not basic bar)
+* Abstract molecular / particle animation (subtle, elegant)
+* Soft motion (no jitter)
+* Branded text reveal (fade + blur + sharpen)
+* Transition into site via seamless morph (not cut)
+
+The loader should feel like:
+“something important is about to load”
+
+---
+
+## 🏗️ TECH STACK
+
+Frontend:
+
+* React (Vite or Next.js)
+* TailwindCSS (customized, not default look)
+* Framer Motion (for smooth animations)
+* GSAP OR Lenis + ScrollTrigger for scroll-based animations
+
+Backend (LIGHT DEMO ONLY):
+
+* Supabase (structure only, mock data allowed)
+* No real payments — simulate flows
+
+---
+
+## 📄 PAGES TO BUILD (ALL REQUIRED)
+
+1. Landing Page (HIGH PRIORITY)
+2. Product Catalog (grid + filters)
+3. Product Detail Page
+4. About / Science Page
+5. Contact Page
+6. Cart + Checkout Flow (demo)
+7. Dashboard (admin-style preview)
+8. Login / Signup (UI only, mock auth)
+9. Order Tracking Page
+10. Blog / Research Insights Page
+
+---
+
+## 🎨 LANDING PAGE (MASTERPIECE SECTION)
+
+Must include:
+
+### Hero Section
+
+* Full-screen
+* Subtle animated background (particles / gradients)
+* Headline reveal animation (letter-by-letter or mask reveal)
+* CTA buttons with hover physics
+
+### Scroll-Based Animations
+
+* Elements move based on scroll position
+* Parallax depth (layers moving at different speeds)
+* Sections fade + slide + scale in (not basic fade)
+
+### Sections:
+
+* Product highlights (interactive cards)
+* Scientific credibility (clean diagrams, animated)
+* Process visualization (step-by-step motion)
+* Testimonials (smooth carousel)
+* Call-to-action (premium feel)
+
+---
+
+## 🧠 INTERACTION DESIGN (VERY IMPORTANT)
+
+EVERYTHING MUST RESPOND:
+
+* Hover → smooth transitions (scale, shadow, glow subtle)
+* Click → tactile feedback (micro animation)
+* Scroll → motion-based storytelling
+* Page transitions → animated (no hard cuts)
+
+---
+
+## 🛒 E-COMMERCE FLOW (DEMO ONLY)
+
+* Add to cart → animated confirmation
+* Cart drawer slides in
+* Checkout:
+
+  * fake form
+  * fake payment success screen
+* Order tracking:
+
+  * animated progress timeline
+
+---
+
+## 🧪 PRODUCT SYSTEM
+
+* Dynamic product cards
+* Filters (category, usage, popularity)
+* Clean product detail UI:
+
+  * description
+  * usage
+  * visuals
+  * CTA
+
+---
+
+## 📊 DASHBOARD (WOW FACTOR)
+
+Create a fake admin dashboard:
+
+* Orders overview
+* Revenue graph (animated)
+* Product management UI
+* Clean cards + charts
+
+This is for visual impress only (no real backend needed)
+
+---
+
+## ⚙️ PERFORMANCE REQUIREMENTS
+
+* Maintain ~60fps animations
+* Avoid heavy libraries unless optimized
+* Lazy load sections where needed
+* Use GPU-friendly animations (transform, opacity)
+
+---
+
+## 🧬 MICRO-DETAILS
+
+* Button hover = slight lift + shadow + glow
+* Cards = subtle depth + smooth scaling
+* Text = smooth fade/slide (no sudden appearance)
+* Icons = minimal, clean
+
+---
+
+## 📦 DATA HANDLING
+
+* Use mock JSON or Supabase structure
+* No real API required
+* Simulate async loading for realism
+
+---
+
+## 🧾 FINAL OUTPUT REQUIREMENTS
+
+* Fully working demo (no broken buttons)
+* Every page connected
+* Smooth navigation
+* Feels like a real product
+
+---
+
+## 🧨 FINAL EXPECTATION
+
+This should NOT look like:
+
+* a template
+* a freelancer project
+* a basic startup MVP
+
+This SHOULD look like:
+
+* a funded SaaS product
+* a premium biotech brand
+* a $10,000+ professional build
+
+---
+
+If any design decision feels “normal” or “common”, improve it.
+
+If something looks boring, redesign it.
+
+If animations feel basic, elevate them.
+
+Make the client say:
+“I don’t need to see more — I’m hiring this developer.”
+
+---
