@@ -4,7 +4,7 @@ import { ScrollReveal } from "@/components/ScrollReveal";
 import { products } from "@/mockData";
 import { useCart } from "@/context/CartContext";
 import { useState } from "react";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import { Plus, Check, Beaker, Shield, Activity } from "lucide-react";
 import { ProductCard } from "@/components/ProductCard";
 
